@@ -75,5 +75,5 @@
 
 <!-- Waving hand animation to make it fun -->
 <p align="center">
-  <img alt="wave" src="https://media.giphy.com/media/l0HlQ7LRXm8M5CD6M/giphy.gif" width="100" />
+ 
 </p>
